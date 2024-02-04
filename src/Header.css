@@ -1,0 +1,22 @@
+.header {
+    padding: 25px 50px;
+    background: #222;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.header button {
+/* Add any additional styling for the buttons here */
+    color: white;
+    background-color: #222;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+.header button:hover {
+    color: #222;
+    background-color: white;
+}
